@@ -1,0 +1,22 @@
+{
+  "name": "github-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bigbaoz/github-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bigbaoz/github-exercise/issues"
+  },
+  "homepage": "https://github.com/Bigbaoz/github-exercise#readme",
+  "dependencies": {
+    "gh-pages": "^1.1.0"
+  }
+}
