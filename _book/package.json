@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/Bigbaoz/github-exercise/issues"
   },
-  "homepage": "https://github.com/Bigbaoz/github-exercise#readme",
+  "homepage": "https://github.com/Bigbaoz/github-exercise",
   "dependencies": {},
   "devDependencies": {
     "gh-pages": "^1.1.0"
